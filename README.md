@@ -162,15 +162,6 @@ Published **"Understanding Neural Networks for Landing a Rocket"** in Ijaresm, h
 
 ---
 
-## 🌟 Interests & Hobbies
-
-- 🏆 International competition participant and award winner
-- 🤖 AI/ML research and autonomous systems development
-- 🎨 3D modeling and animation (Blender, 3DS Max)
-- 🚀 Reinforcement learning and neural network optimization
-
----
-
 
 
 <div align="center">
