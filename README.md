@@ -1,189 +1,194 @@
-# 👨‍💻 Ashwinikumar Rathod
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashwinikumar-rathod)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashwinrathod303@gmail.com)
+# 👋 ASHWINIKUMAR CHANDRAKANT RATHOD
+
+### 📊 MSc Business Analytics Student | Data Analyst | Machine Learning Enthusiast
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashwinkumar-rathod)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashwinrathod.003@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AshwinRathod-003)
+
+📍 **Dublin, Ireland** | 📞 **+353-899453839**
+
+</div>
 
 ---
 
-## 📊 Profile
+## 💼 Profile
 
-**MSc Student in Business Analytics** at UCD Smurfit Graduate Business School, Dublin, Ireland. Experienced Software Engineer with expertise in AI/ML, full-stack development, and data-driven solutions. Former Software Engineer at Codons Technologies with a proven track record of delivering impactful projects in education technology and intelligent systems.
-
-📍 **Location:** Dublin, Ireland  
-📧 **Email:** ashwinrathod303@gmail.com  
-📱 **Phone:** [Your Phone Number]  
-🔗 **LinkedIn:** [linkedin.com/in/ashwinikumar-rathod](https://linkedin.com/in/ashwinikumar-rathod)
+> Analytical and results-oriented **Master of Science in Business Analytics** candidate with comprehensive experience in data mining, predictive modeling, and business intelligence solutions. Demonstrated expertise in transforming raw data into strategic insights through advanced statistical analysis and machine learning applications. Proven ability to deliver data-driven solutions across healthcare, finance, and technology domains.
 
 ---
 
 ## 🛠️ Key Skills
 
-### Programming Languages
+### 💻 Programming & Analytics
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### Web Technologies
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+**Core:** Python (Pandas, NumPy, Scikit-learn) • SQL • C++
 
-### AI/ML & Data Science
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+### 📊 Data Visualization
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
 
-### Databases & Tools
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+**Tools:** Tableau • Power BI • Matplotlib • Seaborn • Dashboard Development
+
+### 🤖 Machine Learning
+![ML](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS_ML-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+**Techniques:** Regression Analysis • Classification Algorithms • Clustering • Neural Networks • Reinforcement Learning • AWS Machine Learning
+
+### 🗄️ Database & Tools
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+**Technologies:** MySQL • Advanced Excel • Git • Jupyter Notebook • Data Warehousing • ETL
 
 ---
 
 ## 💼 Work Experience
 
-### Software Engineer | Codons Technologies
-*[Duration from Resume]*
+### 📈 **Data Analyst** | Codons Technologies, Nagpur, Maharashtra
+**June 2023 – June 2025**
 
-**Key Achievements:**
-- Developed and deployed AI-powered educational technology solutions serving thousands of students
-- Engineered full-stack web applications using React, Node.js, and MongoDB with focus on scalability and performance
-- Implemented machine learning models for intelligent content recommendation and student performance prediction
-- Collaborated with cross-functional teams to deliver projects on time while maintaining high code quality standards
-- Optimized application performance resulting in 40% faster load times and improved user experience
-- Mentored junior developers and conducted code reviews to maintain best practices
-- Designed and implemented RESTful APIs for seamless frontend-backend integration
+- 🎯 **Drove revenue uplift** by optimizing the sales lead qualification funnel using predictive analytics (Python/SQL), enabling the Sales team to prioritize high-potential leads → **18% increase in enrollment conversion rate**
+- 📊 Led key analytical projects, including development of a **mutual fund recommendation engine** and a framework for **marketing mix modeling**, presenting strategic recommendations to executive decision-makers
+- 🤝 Managed and led **client-facing meetings** to gather, clarify, and document specific data requirements, serving as the central analytical translator for external project deliverables
+- ⚡ Deployed comprehensive **Power BI dashboards** for executive and operational reviews → **20% reduction** in manual data compilation time
 
-**Technical Contributions:**
-- Built responsive, user-friendly interfaces with modern React patterns and component libraries
-- Integrated third-party APIs and services for enhanced functionality
-- Implemented robust authentication and authorization systems
-- Developed data analytics dashboards for real-time insights
-- Participated in agile development cycles with regular sprint planning and retrospectives
+### 📊 **Data Analytics Intern** | Codons Technologies, Nagpur, Maharashtra
+**December 2022 – June 2023**
+
+- 📉 Built foundational **predictive models** for market trend analysis using statistical and machine learning concepts
+- 🔍 Ensured data integrity and readiness by writing and optimizing **SQL queries** for cleaning, validating, and structuring raw data used in client-facing dashboards
+- 📊 Executed **Exploratory Data Analysis (EDA)** on large financial markets datasets, identifying key statistical patterns and anomalies that influenced early senior analyst recommendations
 
 ---
 
 ## 🎓 Education
 
-### MSc in Business Analytics
-**UCD Smurfit Graduate Business School, University College Dublin**  
-*Dublin, Ireland*  
-*[Expected Graduation Year]*
+### 🎓 **Master of Science in Business Analytics**
+**UCD Michael Smurfit Graduate Business School, Dublin, Ireland**  
+📅 September 2025 - Present
 
-Focusing on data analytics, machine learning applications in business, and strategic decision-making.
+### 🎓 **Bachelor of Technology in Information Technology**
+**G.H. Raisoni College of Engineering, Nagpur**  
+📅 September 2003 - June 2010  
+🏆 **CGPA: 8.32 / 10** (First Class Honours)
 
-### Bachelor's Degree in Computer Engineering
-**G.H. Raisoni College of Engineering**  
-*[Graduation Year] | CGPA: [Your CGPA]*
+---
 
-Strong foundation in computer science fundamentals, algorithms, data structures, and software engineering principles.
+## 🏆 Achievements & Awards
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+🥇 **Gold Medalist**
+
+Represented **India** at ASEAN Innovation Science and International Entrepreneurship Fair in **Indonesia**
+
+*Project: "Nova: Robot for Child Programming and Monitoring Assist"*
+
+</td>
+<td width="33%" align="center">
+
+🏅 **Finalist**
+
+Toycathon 2022 Physical Edition  
+Organized by **Indian Government**
+
+*Project: "Adhyay"*
+
+</td>
+<td width="33%" align="center">
+
+🥉 **3rd Place**
+
+FGSI Yash 2020  
+Faridabad International Science Fair
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🚀 Projects & Research
 
-### 🤖 Nova AI Robot
-**Intelligent Robotics System**
-- Developed an autonomous AI-powered robot with computer vision and natural language processing capabilities
-- Implemented object detection and tracking algorithms using deep learning frameworks
-- Integrated speech recognition for voice command functionality
-- Designed real-time decision-making system for autonomous navigation
+<table>
+<tr>
+<td width="50%">
 
-**Technologies:** Python, TensorFlow, OpenCV, ROS (Robot Operating System)
+### 🤖 **Nova AI Robot**
+Developed an **AI-driven robot** for child programming and monitoring, applying machine learning for intelligent decision-making and schedule analysis. Designed and animated the robot's body using **3D modeling in Blender**.
 
----
+**Tech:** Machine Learning • 3D Modeling • Blender
 
-### 🚀 Rocket Landing Simulation in 3D
-**Physics-Based Simulation Project**
-- Created a realistic 3D simulation of rocket landing mechanics with accurate physics modeling
-- Implemented trajectory optimization algorithms for fuel-efficient landing
-- Developed interactive visualization with real-time parameter adjustments
-- Applied reinforcement learning techniques for autonomous landing control
+</td>
+<td width="50%">
 
-**Technologies:** Python, Unity/Unreal Engine, Physics Simulation Libraries
+### 🚀 **Rocket Landing in 3D**
+Created an autonomous rocket landing program in **Unity** using **reinforcement learning**. Optimized **35,000 neural network parameters** for **96% accurate** rocket landings based on 11 key observations.
 
----
+**Tech:** Unity • Reinforcement Learning • Neural Networks
 
-### 📚 EdTech Startup Promotional Video
-**Multimedia Content Creation**
-- Produced professional promotional video for education technology startup
-- Scripted, filmed, and edited engaging content highlighting platform features
-- Collaborated with marketing team to align messaging with brand strategy
-- Achieved high engagement metrics with creative storytelling approach
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-**Skills Applied:** Video Production, Editing, Storytelling, Marketing Communication
+### 🎬 **EdTech Startup Video**
+Produced an animated promotional video for an educational technology startup, including **scripting** and **3DS Max animation**.
 
----
+**Tech:** 3DS Max • Animation • Video Production
 
-### 📄 Research Publication
-**[Research Title from Resume]**
-- Published research paper in [Conference/Journal Name]
-- Investigated [Research Topic] with novel approach to [Problem Statement]
-- Conducted extensive experiments and data analysis to validate findings
-- Presented findings at [Conference Name] with positive reception from academic community
+</td>
+<td width="50%">
 
-**Research Areas:** Machine Learning, Computer Vision, Natural Language Processing
+### 📝 **Research Publication**
+Published **"Understanding Neural Networks for Landing a Rocket"** in Ijaresm, highlighting expertise in neural network design for autonomous control systems.
+
+**Focus:** Neural Networks • Autonomous Systems
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🏆 Achievements & Hobbies
+## 🌟 Interests & Hobbies
 
-### 🥇 Achievements
-
-**🏅 Gold Medal Winner**
-- Awarded Gold Medal for academic excellence and outstanding project work
-- Recognized for exceptional performance in [Specific Competition/Event]
-
-**🎯 Toycathon Finalist**
-- Selected as finalist in national-level Toycathon competition
-- Developed innovative toy concept combining education with entertainment
-- Presented prototype to panel of industry experts and educators
-
-**🌟 FGSI Yash 2020**
-- Participated in FGSI Yash 2020 initiative
-- Contributed to [Specific Achievement/Project]
-- Recognized for innovation and social impact
-
-### 🎨 Hobbies & Interests
-- **Technology Innovation:** Exploring emerging technologies and building side projects
-- **Problem Solving:** Competitive programming and algorithmic challenges
-- **Continuous Learning:** Reading technical blogs, research papers, and online courses
-- **Community Engagement:** Contributing to open-source projects and tech communities
+- 🏆 International competition participant and award winner
+- 🤖 AI/ML research and autonomous systems development
+- 🎨 3D modeling and animation (Blender, 3DS Max)
+- 🚀 Reinforcement learning and neural network optimization
 
 ---
 
-## 📫 Contact Information
+## 📞 References
 
-**📍 Location:** Dublin, Ireland  
-**📧 Email:** ashwinrathod303@gmail.com  
-**📱 Phone:** [Your Phone Number]  
-**💼 LinkedIn:** [linkedin.com/in/ashwinikumar-rathod](https://linkedin.com/in/ashwinikumar-rathod)  
-**🐙 GitHub:** [github.com/AshwinRathod-003](https://github.com/AshwinRathod-003)
+**Shivam Joshi**  
+*Founder & Executive Director*  
+**Codons Technologies Pvt. Ltd.**
 
----
-
-## 📂 GitHub Projects
-
-*This section will showcase my GitHub repositories as I continue to build and contribute to open-source projects. Stay tuned for exciting updates!*
-
-**Coming Soon:**
-- Machine Learning Projects
-- Full-Stack Web Applications
-- Data Analytics Tools
-- Research Implementations
+📧 [shivam19joshi@gmail.com](mailto:shivam19joshi@gmail.com)  
+📱 +91 9309180626
 
 ---
 
 <div align="center">
 
-### 💡 "Building innovative solutions at the intersection of technology and business"
+### 📫 Let's Connect!
 
-![Profile Views](https://komarev.com/ghpvc/?username=AshwinRathod-003&color=blue&style=for-the-badge)
+*Open to opportunities in Data Analytics, Business Intelligence, and Machine Learning*
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashwinkumar-rathod)
+[![Email](https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashwinrathod.003@gmail.com)
 
 </div>
