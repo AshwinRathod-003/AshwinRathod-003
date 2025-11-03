@@ -171,16 +171,7 @@ Published **"Understanding Neural Networks for Landing a Rocket"** in Ijaresm, h
 
 ---
 
-## 📞 References
 
-**Shivam Joshi**  
-*Founder & Executive Director*  
-**Codons Technologies Pvt. Ltd.**
-
-📧 [shivam19joshi@gmail.com](mailto:shivam19joshi@gmail.com)  
-📱 +91 9309180626
-
----
 
 <div align="center">
 
