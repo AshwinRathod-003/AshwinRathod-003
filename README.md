@@ -1,6 +1,6 @@
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=AshwinRathod-003&color=blueviolet&style=for-the-badge)
+
 
 # 🎯 ASHWINIKUMAR CHANDRAKANT RATHOD
 
