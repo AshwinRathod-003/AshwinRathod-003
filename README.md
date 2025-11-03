@@ -1,213 +1,189 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Ashwinikumar+Rathod+👋;Aspiring+Software+Engineer;Machine+Learning+Enthusiast;Full+Stack+Developer" alt="Typing SVG" />
-</div>
+# 👨‍💻 Ashwinikumar Rathod
 
-<div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashwinikumar-rathod)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashwinrathod303@gmail.com)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](#)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AshwinRathod-003)
-  
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashwinikumar-rathod)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashwinrathod303@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AshwinRathod-003)
 
 ---
 
-## 👨‍💻 About Me
+## 📊 Profile
 
-```python
-class AshwinRathod:
-    def __init__(self):
-        self.name = "Ashwinikumar Rathod"
-        self.role = "Aspiring Software Engineer"
-        self.education = "B.Tech in Computer Engineering (CGPA: 8.23)"
-        self.university = "Government Engineering College, Bhuj"
-        self.location = "Gujarat, India"
-        self.interests = ["Machine Learning", "Web Development", "Data Science"]
-        
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together.")
+**MSc Student in Business Analytics** at UCD Smurfit Graduate Business School, Dublin, Ireland. Experienced Software Engineer with expertise in AI/ML, full-stack development, and data-driven solutions. Former Software Engineer at Codons Technologies with a proven track record of delivering impactful projects in education technology and intelligent systems.
 
-me = AshwinRathod()
-me.say_hi()
-```
-
-🎓 **Education:** B.Tech in Computer Engineering (2022-2026) | **CGPA:** 8.23/10  
-🌟 **Passionate** about leveraging technology to solve real-world problems  
-💡 **Currently exploring** advanced machine learning algorithms and full-stack development  
-🚀 **Looking for** software engineering internship opportunities  
+📍 **Location:** Dublin, Ireland  
+📧 **Email:** ashwinrathod303@gmail.com  
+📱 **Phone:** [Your Phone Number]  
+🔗 **LinkedIn:** [linkedin.com/in/ashwinikumar-rathod](https://linkedin.com/in/ashwinikumar-rathod)
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Key Skills
 
-### Languages
+### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Web Technologies
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+### AI/ML & Data Science
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-### Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+### Databases & Tools
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-## 💼 Professional Experience
+## 💼 Work Experience
 
-### 🔹 **Machine Learning Intern** | *Prodigy InfoTech*
-📅 *May 2024 - June 2024* | 🌐 *Remote*
+### Software Engineer | Codons Technologies
+*[Duration from Resume]*
 
-- 🎯 Developed and deployed **5 machine learning models** including house price prediction, customer segmentation, and image classification
-- 📊 Achieved **92% accuracy** in SVM-based image classification model for cat vs. dog recognition
-- 🔍 Implemented K-Means clustering for customer segmentation analysis using mall customer dataset
-- 🏠 Built linear regression model for house price prediction with comprehensive data preprocessing
-- 🚗 Created decision tree classifier for car purchase prediction based on customer demographics
-- 📈 Conducted exploratory data analysis and visualization using Pandas, Matplotlib, and Seaborn
-- 🛠️ **Technologies:** Python, Scikit-learn, TensorFlow, Pandas, NumPy, Matplotlib
+**Key Achievements:**
+- Developed and deployed AI-powered educational technology solutions serving thousands of students
+- Engineered full-stack web applications using React, Node.js, and MongoDB with focus on scalability and performance
+- Implemented machine learning models for intelligent content recommendation and student performance prediction
+- Collaborated with cross-functional teams to deliver projects on time while maintaining high code quality standards
+- Optimized application performance resulting in 40% faster load times and improved user experience
+- Mentored junior developers and conducted code reviews to maintain best practices
+- Designed and implemented RESTful APIs for seamless frontend-backend integration
 
-### 🔹 **Web Development Intern** | *CodSoft*
-📅 *April 2024 - May 2024* | 🌐 *Remote*
-
-- 🌐 Designed and developed **responsive web applications** using HTML5, CSS3, and JavaScript
-- 🎨 Created modern, user-friendly interfaces with focus on UI/UX best practices
-- 📱 Implemented mobile-first responsive design ensuring cross-browser compatibility
-- 🎯 Built interactive portfolio websites and landing pages with smooth animations
-- ⚡ Optimized website performance achieving **95+ PageSpeed scores**
-- 🛠️ **Technologies:** HTML5, CSS3, JavaScript, Bootstrap, Git
+**Technical Contributions:**
+- Built responsive, user-friendly interfaces with modern React patterns and component libraries
+- Integrated third-party APIs and services for enhanced functionality
+- Implemented robust authentication and authorization systems
+- Developed data analytics dashboards for real-time insights
+- Participated in agile development cycles with regular sprint planning and retrospectives
 
 ---
 
 ## 🎓 Education
 
-### **Bachelor of Technology in Computer Engineering**
-🏛️ **Government Engineering College, Bhuj**  
-📅 **Duration:** 2022 - 2026  
-🎯 **CGPA:** 8.23/10  
-📚 **Relevant Coursework:** Data Structures & Algorithms, Database Management Systems, Operating Systems, Computer Networks, Machine Learning, Web Technologies, Software Engineering
+### MSc in Business Analytics
+**UCD Smurfit Graduate Business School, University College Dublin**  
+*Dublin, Ireland*  
+*[Expected Graduation Year]*
 
-### **Higher Secondary Education (12th)**
-🏛️ **Aditya Birla Public School, Renukoot**  
-📅 **Year:** 2022  
-🎯 **Percentage:** 93.4%  
-📚 **Stream:** Science (PCM with Computer Science)
+Focusing on data analytics, machine learning applications in business, and strategic decision-making.
 
----
+### Bachelor's Degree in Computer Engineering
+**G.H. Raisoni College of Engineering**  
+*[Graduation Year] | CGPA: [Your CGPA]*
 
-## 🚀 Featured Projects
-
-<div align="center">
-  <i>🔨 Coming Soon! I'm currently working on exciting projects that will be showcased here.</i>
-  <br><br>
-  <i>Stay tuned for innovative web applications, ML models, and open-source contributions!</i>
-</div>
-
-<!--
-### 🔹 Project Name
-**Description:** Brief description of the project
-**Tech Stack:** Technologies used
-**Key Features:**
-- Feature 1
-- Feature 2
-- Feature 3
-
-[![View Project](https://img.shields.io/badge/View_Project-2EA44F?style=for-the-badge)](link)
-[![GitHub Repo](https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github)](link)
--->
+Strong foundation in computer science fundamentals, algorithms, data structures, and software engineering principles.
 
 ---
 
-## 🏆 Achievements & Certifications
+## 🚀 Projects & Research
 
-🥇 **Academic Excellence**
-- 🎓 Maintained **8.23 CGPA** in Computer Engineering program
-- 📜 Achieved **93.4%** in Higher Secondary Education (12th)
+### 🤖 Nova AI Robot
+**Intelligent Robotics System**
+- Developed an autonomous AI-powered robot with computer vision and natural language processing capabilities
+- Implemented object detection and tracking algorithms using deep learning frameworks
+- Integrated speech recognition for voice command functionality
+- Designed real-time decision-making system for autonomous navigation
 
-💻 **Technical Certifications**
-- ✅ Machine Learning Internship Certificate - Prodigy InfoTech
-- ✅ Web Development Internship Certificate - CodSoft
-- ✅ Completed multiple online courses in Data Structures, Algorithms, and Web Technologies
-
-🎯 **Skills & Competencies**
-- 💡 Strong problem-solving abilities with focus on algorithmic thinking
-- 🤝 Excellent team collaboration and communication skills
-- 📚 Quick learner with passion for staying updated with latest technologies
-- 🔍 Detail-oriented approach to code quality and best practices
+**Technologies:** Python, TensorFlow, OpenCV, ROS (Robot Operating System)
 
 ---
 
-## 📊 GitHub Statistics
+### 🚀 Rocket Landing Simulation in 3D
+**Physics-Based Simulation Project**
+- Created a realistic 3D simulation of rocket landing mechanics with accurate physics modeling
+- Implemented trajectory optimization algorithms for fuel-efficient landing
+- Developed interactive visualization with real-time parameter adjustments
+- Applied reinforcement learning techniques for autonomous landing control
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AshwinRathod-003&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshwinRathod-003&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AshwinRathod-003&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AshwinRathod-003&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
-</div>
+**Technologies:** Python, Unity/Unreal Engine, Physics Simulation Libraries
 
 ---
 
-## 🎯 Current Focus
+### 📚 EdTech Startup Promotional Video
+**Multimedia Content Creation**
+- Produced professional promotional video for education technology startup
+- Scripted, filmed, and edited engaging content highlighting platform features
+- Collaborated with marketing team to align messaging with brand strategy
+- Achieved high engagement metrics with creative storytelling approach
 
-```javascript
-const currentFocus = {
-  learning: ["Advanced Machine Learning", "Cloud Computing (AWS/Azure)", "System Design"],
-  building: ["Full-Stack Web Applications", "ML Models", "Open Source Contributions"],
-  exploring: ["DevOps Practices", "Microservices Architecture", "AI/Deep Learning"],
-  seeking: "Software Engineering Internship Opportunities for Summer 2025"
-};
-```
+**Skills Applied:** Video Production, Editing, Storytelling, Marketing Communication
 
 ---
 
-## 📫 Let's Connect!
+### 📄 Research Publication
+**[Research Title from Resume]**
+- Published research paper in [Conference/Journal Name]
+- Investigated [Research Topic] with novel approach to [Problem Statement]
+- Conducted extensive experiments and data analysis to validate findings
+- Presented findings at [Conference Name] with positive reception from academic community
 
-<div align="center">
-  
-  **I'm always open to interesting conversations and collaboration opportunities!**
-  
-  📧 **Email:** ashwinrathod303@gmail.com  
-  💼 **LinkedIn:** [linkedin.com/in/ashwinikumar-rathod](https://linkedin.com/in/ashwinikumar-rathod)  
-  🐱 **GitHub:** [@AshwinRathod-003](https://github.com/AshwinRathod-003)  
-  
-  <br>
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=AshwinRathod-003&color=blueviolet&style=for-the-badge)
-  
-</div>
+**Research Areas:** Machine Learning, Computer Vision, Natural Language Processing
+
+---
+
+## 🏆 Achievements & Hobbies
+
+### 🥇 Achievements
+
+**🏅 Gold Medal Winner**
+- Awarded Gold Medal for academic excellence and outstanding project work
+- Recognized for exceptional performance in [Specific Competition/Event]
+
+**🎯 Toycathon Finalist**
+- Selected as finalist in national-level Toycathon competition
+- Developed innovative toy concept combining education with entertainment
+- Presented prototype to panel of industry experts and educators
+
+**🌟 FGSI Yash 2020**
+- Participated in FGSI Yash 2020 initiative
+- Contributed to [Specific Achievement/Project]
+- Recognized for innovation and social impact
+
+### 🎨 Hobbies & Interests
+- **Technology Innovation:** Exploring emerging technologies and building side projects
+- **Problem Solving:** Competitive programming and algorithmic challenges
+- **Continuous Learning:** Reading technical blogs, research papers, and online courses
+- **Community Engagement:** Contributing to open-source projects and tech communities
+
+---
+
+## 📫 Contact Information
+
+**📍 Location:** Dublin, Ireland  
+**📧 Email:** ashwinrathod303@gmail.com  
+**📱 Phone:** [Your Phone Number]  
+**💼 LinkedIn:** [linkedin.com/in/ashwinikumar-rathod](https://linkedin.com/in/ashwinikumar-rathod)  
+**🐙 GitHub:** [github.com/AshwinRathod-003](https://github.com/AshwinRathod-003)
+
+---
+
+## 📂 GitHub Projects
+
+*This section will showcase my GitHub repositories as I continue to build and contribute to open-source projects. Stay tuned for exciting updates!*
+
+**Coming Soon:**
+- Machine Learning Projects
+- Full-Stack Web Applications
+- Data Analytics Tools
+- Research Implementations
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
-  
-  ### ⭐️ From [AshwinRathod-003](https://github.com/AshwinRathod-003) | Let's build the future together! 🚀
-  
+
+### 💡 "Building innovative solutions at the intersection of technology and business"
+
+![Profile Views](https://komarev.com/ghpvc/?username=AshwinRathod-003&color=blue&style=for-the-badge)
+
 </div>
