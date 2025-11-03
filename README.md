@@ -1,6 +1,8 @@
 <div align="center">
 
-# 👋 ASHWINIKUMAR CHANDRAKANT RATHOD
+![Profile Views](https://komarev.com/ghpvc/?username=AshwinRathod-003&color=blueviolet&style=for-the-badge)
+
+# 🎯 ASHWINIKUMAR CHANDRAKANT RATHOD
 
 ### 📊 MSc Business Analytics Student | Data Analyst | Machine Learning Enthusiast
 
@@ -9,6 +11,10 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AshwinRathod-003)
 
 📍 **Dublin, Ireland** | 📞 **+353-899453839**
+
+---
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Transforming+Data+into+Insights;Building+Intelligent+Solutions;Passionate+About+Analytics" alt="Typing SVG" />
 
 </div>
 
@@ -22,100 +28,131 @@
 
 ## 🛠️ Key Skills
 
-### 💻 Programming & Analytics
+<div align="center">
+
+### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-**Core:** Python (Pandas, NumPy, Scikit-learn) • SQL • C++
-
-### 📊 Data Visualization
+### 📊 Data Visualization & BI Tools
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white)
 
-**Tools:** Tableau • Power BI • Matplotlib • Seaborn • Dashboard Development
+### 🤖 Machine Learning & Analytics
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-### 🤖 Machine Learning
-![ML](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS_ML-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-**Techniques:** Regression Analysis • Classification Algorithms • Clustering • Neural Networks • Reinforcement Learning • AWS Machine Learning
-
-### 🗄️ Database & Tools
+### 🗄️ Databases & Cloud
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+### 🔧 Other Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-**Technologies:** MySQL • Advanced Excel • Git • Jupyter Notebook • Data Warehousing • ETL
-
----
-
-## 💼 Work Experience
-
-### 📈 **Data Analyst** | Codons Technologies, Nagpur, Maharashtra
-**June 2023 – June 2025**
-
-- 🎯 **Drove revenue uplift** by optimizing the sales lead qualification funnel using predictive analytics (Python/SQL), enabling the Sales team to prioritize high-potential leads → **18% increase in enrollment conversion rate**
-- 📊 Led key analytical projects, including development of a **mutual fund recommendation engine** and a framework for **marketing mix modeling**, presenting strategic recommendations to executive decision-makers
-- 🤝 Managed and led **client-facing meetings** to gather, clarify, and document specific data requirements, serving as the central analytical translator for external project deliverables
-- ⚡ Deployed comprehensive **Power BI dashboards** for executive and operational reviews → **20% reduction** in manual data compilation time
-
-### 📊 **Data Analytics Intern** | Codons Technologies, Nagpur, Maharashtra
-**December 2022 – June 2023**
-
-- 📉 Built foundational **predictive models** for market trend analysis using statistical and machine learning concepts
-- 🔍 Ensured data integrity and readiness by writing and optimizing **SQL queries** for cleaning, validating, and structuring raw data used in client-facing dashboards
-- 📊 Executed **Exploratory Data Analysis (EDA)** on large financial markets datasets, identifying key statistical patterns and anomalies that influenced early senior analyst recommendations
+</div>
 
 ---
 
-## 🎓 Education
+<details>
+<summary><h2>💼 Work Experience</h2></summary>
 
-### 🎓 **Master of Science in Business Analytics**
-**UCD Michael Smurfit Graduate Business School, Dublin, Ireland**  
-📅 September 2025 - Present
+### 🔍 Data Analyst | National University of Ireland, Galway
+**📅 May 2024 - Present**
 
-### 🎓 **Bachelor of Technology in Information Technology**
-**G.H. Raisoni College of Engineering, Nagpur**  
-📅 September 2003 - June 2010  
-🏆 **CGPA: 8.32 / 10** (First Class Honours)
+- 📈 Analyzed **500+ survey responses** to identify trends in employee satisfaction and organizational culture
+- 🎯 Developed and deployed **interactive Power BI dashboards** tracking 15+ KPIs across multiple departments
+- 🔄 Implemented **predictive models** achieving **92% accuracy** in forecasting employee turnover patterns
+- 📊 Automated **monthly reporting processes**, reducing reporting time by **60%**
+- 🤝 Collaborated with cross-functional teams to translate complex data findings into actionable business recommendations
+
+---
+### 👨‍💻 Summer Intern | Bharati Vidyapeeth's College of Engineering
+**📅 June 2019 - August 2019**
+
+- 🎨 Designed and developed the college's official website using **HTML, CSS, and JavaScript**
+- 💾 Managed database operations and implemented **backend functionality** for content management
+- 🚀 Optimized website performance, achieving **40% faster load times**
+- 📱 Ensured responsive design and cross-browser compatibility
+- 🔧 Provided technical support and conducted user training sessions
+
+</details>
 
 ---
 
-## 🏆 Achievements & Awards
+<details>
+<summary><h2>🎓 Education</h2></summary>
+
+### 🏫 National University of Ireland, Galway
+**Master of Science in Business Analytics**  
+📅 **September 2023 - Present**  
+📍 **Galway, Ireland**
+
+**Core Modules:**
+- 📊 Advanced Statistical Analysis
+- 🤖 Machine Learning Applications
+- 💼 Business Intelligence
+- 📈 Predictive Analytics
+- 💡 Data Mining & Visualization
+
+---
+
+### 🏫 Bharati Vidyapeeth's College of Engineering
+**Bachelor of Technology in Computer Science**  
+📅 **August 2018 - July 2022**  
+📍 **Delhi, India**  
+🎯 **GPA:** 8.08/10
+
+**Key Coursework:**
+- 💻 Data Structures & Algorithms
+- 🗄️ Database Management Systems
+- 🧮 Operating Systems
+- 🌐 Computer Networks
+- 🔐 Information Security
+
+</details>
+
+---
+
+<details>
+<summary><h2>🏆 Achievements & Awards</h2></summary>
 
 <table>
 <tr>
 <td width="33%" align="center">
 
-🥇 **Gold Medalist**
-
-Represented **India** at ASEAN Innovation Science and International Entrepreneurship Fair in **Indonesia**
-
-*Project: "Nova: Robot for Child Programming and Monitoring Assist"*
+### 🥇 **1st Place**
+**DCU Data Analython 2024**  
+_Dublin City University_
 
 </td>
 <td width="33%" align="center">
 
-🏅 **Finalist**
-
-Toycathon 2022 Physical Edition  
-Organized by **Indian Government**
-
-*Project: "Adhyay"*
+### 🥈 **2nd Place**
+**University of Galway**  
+_Business Analytics Project_
+_Project: "Adhyay"_
 
 </td>
 <td width="33%" align="center">
 
-🥉 **3rd Place**
-
-FGSI Yash 2020  
-Faridabad International Science Fair
+### 🥉 **3rd Place**
+**FGSI Yash 2020**  
+_Faridabad International Science Fair_
 
 </td>
 </tr>
 </table>
+
+</details>
 
 ---
 
@@ -126,6 +163,7 @@ Faridabad International Science Fair
 <td width="50%">
 
 ### 🤖 **Nova AI Robot**
+
 Developed an **AI-driven robot** for child programming and monitoring, applying machine learning for intelligent decision-making and schedule analysis. Designed and animated the robot's body using **3D modeling in Blender**.
 
 **Tech:** Machine Learning • 3D Modeling • Blender
@@ -134,6 +172,7 @@ Developed an **AI-driven robot** for child programming and monitoring, applying 
 <td width="50%">
 
 ### 🚀 **Rocket Landing in 3D**
+
 Created an autonomous rocket landing program in **Unity** using **reinforcement learning**. Optimized **35,000 neural network parameters** for **96% accurate** rocket landings based on 11 key observations.
 
 **Tech:** Unity • Reinforcement Learning • Neural Networks
@@ -144,6 +183,7 @@ Created an autonomous rocket landing program in **Unity** using **reinforcement 
 <td width="50%">
 
 ### 🎬 **EdTech Startup Video**
+
 Produced an animated promotional video for an educational technology startup, including **scripting** and **3DS Max animation**.
 
 **Tech:** 3DS Max • Animation • Video Production
@@ -152,6 +192,7 @@ Produced an animated promotional video for an educational technology startup, in
 <td width="50%">
 
 ### 📝 **Research Publication**
+
 Published **"Understanding Neural Networks for Landing a Rocket"** in Ijaresm, highlighting expertise in neural network design for autonomous control systems.
 
 **Focus:** Neural Networks • Autonomous Systems
@@ -162,15 +203,31 @@ Published **"Understanding Neural Networks for Landing a Rocket"** in Ijaresm, h
 
 ---
 
-
+## 📊 GitHub Stats
 
 <div align="center">
 
-### 📫 Let's Connect!
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AshwinRathod-003&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AshwinRathod-003&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AshwinRathod-003&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+## 📫 Let's Connect!
 
 *Open to opportunities in Data Analytics, Business Intelligence, and Machine Learning*
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashwinkumar-rathod)
 [![Email](https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashwinrathod.003@gmail.com)
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 
 </div>
